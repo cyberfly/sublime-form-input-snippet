@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[<textarea name="${1:field_name}" id="${2:field_name}" class="span-6" ></textarea>]]></content>
+  <tabTrigger>tx</tabTrigger>
+</snippet>
+

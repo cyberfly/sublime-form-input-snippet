@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<input type="text" name="${1:field_name}" id="${2:field_name}" class="input-large" />]]></content>
+  <tabTrigger>tf</tabTrigger>
+</snippet>
