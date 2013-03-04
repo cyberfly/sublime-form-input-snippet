@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+
+\$("#${1:button}").live('click', function() {
+	$2
+});
+  	]]></content>
+  <tabTrigger>click</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+
+var ${1:field} = \$("#${2:field}").val();
+  	]]></content>
+  <tabTrigger>var</tabTrigger>
+</snippet>
+
