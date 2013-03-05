@@ -1,4 +1,4 @@
 <snippet>
-  <content><![CDATA[<input type="hidden" name="${1:field_name}" id="${2:field_name}" class="input-large" />]]></content>
+  <content><![CDATA[<input type="hidden" name="${1:field_name}" id="${2:field_name}" value="<?php echo set_value('${3:field_name}') ?>" class="input-large" />]]></content>
   <tabTrigger>hd</tabTrigger>
 </snippet>

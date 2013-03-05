@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<?php if(isset(\$${1:records})){ foreach (\$${2:records} as \$key => \$${3:row}){ ?>]]></content>
+  <tabTrigger>ifor</tabTrigger>
+</snippet>
