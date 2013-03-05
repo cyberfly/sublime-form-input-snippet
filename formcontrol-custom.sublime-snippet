@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+
+<?php \$error = ''; if(form_error('${1:field_name}')){ \$error = 'error'; } ?>
+
+<div class="control-group formSep <?php echo \$error; ?>">
+	<label for="select01" class="control-label">${3:Form Label}</label>
+	<div class="controls">
+		$4
+		<?php echo form_error('${2:field_name}', '<span class="help-inline">', '</span>'); ?>
+	</div>
+</div>
+   ]]></content>
+  <tabTrigger>fc</tabTrigger>
+</snippet>
