@@ -15,5 +15,4 @@ $(document).ready(function () {
 
 <?php if(isset($records)){ foreach ($records as $key => $row){ ?>  
 
-7. tf then tab will be replace with  
-<input type="text" name="field_name" id="field_name" value="" class="input-large" />
+7. tf then tab will be replace with <input type="text" name="field_name" id="field_name" value="" class="input-large" />
