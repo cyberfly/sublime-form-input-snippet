@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<textarea name="${1:field_name}" id="${2:field_name}" class="span-6" ><?php echo set_value('${3:field_name}'); ?></textarea>]]></content>
+  <content><![CDATA[<textarea name="${1:field_name}" id="${2:field_name}" class="span12" ><?php echo set_value('${3:field_name}'); ?></textarea>]]></content>
   <tabTrigger>tx</tabTrigger>
 </snippet>
 

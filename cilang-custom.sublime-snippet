@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[\$this->lang->line('$1')]]></content>
+  <tabTrigger>lang</tabTrigger>
+</snippet>

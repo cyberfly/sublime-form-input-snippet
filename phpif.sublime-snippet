@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<?php if(\$${1:records}=='${2:Y}'){ ?>]]></content>
+  <tabTrigger>pif</tabTrigger>
+</snippet>

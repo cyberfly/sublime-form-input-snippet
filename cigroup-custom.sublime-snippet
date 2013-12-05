@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[if(\$this->ion_auth->in_group('${1:contractor}'))]]></content>
+  <tabTrigger>group</tabTrigger>
+</snippet>

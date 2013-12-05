@@ -1,6 +1,5 @@
 <snippet>
   <content><![CDATA[var_dump(\$$0);exit;]]></content>
-  <tabTrigger>vd</tabTrigger>
-  <scope>source.php</scope>
+  <tabTrigger>var</tabTrigger>
 </snippet>
 

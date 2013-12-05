@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[<?php echo \$this->lang->line('$1'); ?>]]></content>
+  <tabTrigger>plang</tabTrigger>
+</snippet>
+
